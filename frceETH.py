@@ -4,8 +4,8 @@ from eth_account import Account
 web3 = Web3(Web3.HTTPProvider('https://data-seed-prebsc-1-s1.binance.org:8545/'))
 
 # Replace with your own wallet private keys and addresses
-private_key_wallet1 = '316514984c14720cb54cbe7193bc2ae74ff9e80e473833468f75de36b4'
-private_key_wallet2 = '3923d98dcf98d279b7a38323eca3066bbf794ea886a6abc5af228eb3264'
+private_key_wallet1 = '5ea98230069a8ce408847938e3e6793897970b3743f3c94e717c7636915e5559'
+private_key_wallet2 = 'a4277b3d8ec5580a59baa39912c53c79662e2833989d922ed9bcfed83ae8e65d'
 token_contract_address = '0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB'  # Address of the erc20 token contract
 uniswap_router_address = '0x3aF2ACB662A241da4ef4310C7AB226f552B42115'  
 
